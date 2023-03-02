@@ -1,0 +1,31 @@
+[
+    {"ABTestId":1,
+    "ABstartDate":"2023-01-01T00:00:00",
+    "ABendDate":"2024-01-01T00:00:00",
+    "Groups":
+    [
+        {"GroupId":1,"Chance":0.5,"variables":[100,100.0]},
+        {"GroupId":2,"Chance":0.5,"variables":[100,100.0]}
+    ]
+    },
+    {"ABTestId":2,
+    "ABstartDate":"2023-01-01T00:00:00",
+    "ABendDate":"2024-01-01T00:00:00",
+    "Groups":
+    [
+        {"GroupId":1,"Chance":0.2,"variables":[100,100.0]},
+        {"GroupId":2,"Chance":0.2,"variables":[100,100.0]},
+        {"GroupId":3,"Chance":0.36,"variables":[100,100.0]},
+        {"GroupId":4,"Chance":0.88,"variables":[100,100.0]}
+    ]
+    },
+    {"ABTestId":3,
+    "ABstartDate":"2024-01-01T00:00:00",
+    "ABendDate":"2025-01-01T00:00:00",
+    "Groups":
+    [
+        {"GroupId":1,"Chance":0.5,"variables":[100,100.0]},
+        {"GroupId":2,"Chance":0.5,"variables":[100,100.0]}
+    ]
+    }
+]
